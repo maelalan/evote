@@ -3,6 +3,14 @@ E-Vote
 
 E-Vote is an open source system for secure, trusted, anonymous, and verifiable voting online.  It is based on the [web2py](http://web2py.com/) framework.
 
+
+Addin in progress
+-------
+- Add a Quorum option
+- New graphical way to create élection form
+- Add a proportional result option (for 75% vote vs 51% vote)
+- full french translation
+
 Overview
 --------
 
